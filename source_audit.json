@@ -1,0 +1,16 @@
+{
+  "dataset": "skin",
+  "n_originals": 600,
+  "n_sha_verified": 600,
+  "unique_SHA256": 557,
+  "duplicate_records": 43,
+  "n_phash_or_subject_groups": 537,
+  "ambiguous_label_groups": 4,
+  "excluded_records_in_ambiguous_groups": 9,
+  "curated_originals": 533,
+  "curated_class_distribution": {
+    "0": 174,
+    "1": 188,
+    "2": 171
+  }
+}

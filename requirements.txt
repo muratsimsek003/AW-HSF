@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+scikit-image>=0.22
+Pillow>=10
+opencv-python-headless>=4.8
+torch>=2.2
+torchvision>=0.17
+tqdm>=4.65
+kagglehub>=0.3
+kaggle>=1.6

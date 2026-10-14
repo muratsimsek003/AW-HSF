@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-14",
+  "pretrained_checkpoint_filename": "mobilenet_v3_small-047dcff4.pth",
+  "pretrained_checkpoint_sha256": "047dcff4addef86ea5bc2eff13c9614dc11f47ab1160d0a71a25e7db994f4e1f",
+  "source_code_sha256": "5b2a941010a8c393000b313f1cf82b3ad653e98c3fc3cecffe3a8ae0f86c3ca2",
+  "backbone": "torchvision.models.mobilenet_v3_small (ImageNet pretrained, frozen)",
+  "software_versions": {
+    "torch": "2.10.0+cpu",
+    "torchvision": "0.25.0+cpu",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "sklearn": "1.8.0"
+  },
+  "seeds": [
+    42,
+    7,
+    123,
+    2024,
+    91
+  ],
+  "outer_grouped_folds": 5,
+  "lambda_grid": [
+    0,
+    0.005,
+    0.01,
+    0.025,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "max_epochs": 100,
+  "early_stop_patience": 15,
+  "originals": {
+    "skin": 533,
+    "botox": 46
+  },
+  "source_hash_verified": true,
+  "skin_person_ids_available": false,
+  "botox_subjects": 23,
+  "caveat": "Independent reimplementation, not original manuscript numerical replication; skin pHash-group curation conditional on labels and image similarity, not verified identity; no expert gold-standard.",
+  "portable_reproduction_sha256": "3612ae7787cdbfd3e2d787905ff83bf88612641791bb6c8c913acd521b182a38"
+}

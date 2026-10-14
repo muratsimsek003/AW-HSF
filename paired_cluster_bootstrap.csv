@@ -1,0 +1,17 @@
+proposed,comparator,metric,delta_proposed_minus_comparator,CI95_low,CI95_high,bootstrap_cluster_unit,n_bootstrap
+P3_nested_none,D1_none,ECE_10,-0.058797653924536245,-0.09335118367652656,-0.010885690260199058,image pHash-near-duplicate cluster,600
+P3_nested_none,D1_none,Brier_multiclass,0.014310273692573417,-0.00019207351031693247,0.02978080720472429,image pHash-near-duplicate cluster,600
+P3_nested_none,D1_temperature,ECE_10,0.01537729536310622,-0.009068604249417002,0.028737249799866995,image pHash-near-duplicate cluster,600
+P3_nested_none,D1_temperature,Brier_multiclass,0.03335241847758067,0.017516220715501615,0.046844602069112076,image pHash-near-duplicate cluster,600
+P3_nested_none,F1_none,ECE_10,-0.032039401855780955,-0.06613114594089618,0.004367265606501887,image pHash-near-duplicate cluster,600
+P3_nested_none,F1_none,Brier_multiclass,0.010014460829189453,-0.00045379304000871544,0.02136214058035351,image pHash-near-duplicate cluster,600
+P3_nested_none,F1_temperature,ECE_10,0.013505307777499314,-0.005487916068590692,0.024202198844194712,image pHash-near-duplicate cluster,600
+P3_nested_none,F1_temperature,Brier_multiclass,0.02070506203049798,0.011912139075641702,0.029906107964969668,image pHash-near-duplicate cluster,600
+P3_nested_temperature,D1_none,ECE_10,-0.07224172813569266,-0.09728477256076758,-0.025301096157508224,image pHash-near-duplicate cluster,600
+P3_nested_temperature,D1_none,Brier_multiclass,0.009250037770445108,-0.005381070448005886,0.025409270059163328,image pHash-near-duplicate cluster,600
+P3_nested_temperature,D1_temperature,ECE_10,0.0019332211519498133,-0.014754481251879014,0.015462101368112309,image pHash-near-duplicate cluster,600
+P3_nested_temperature,D1_temperature,Brier_multiclass,0.02829218255545236,0.01386958873998555,0.044076002466142634,image pHash-near-duplicate cluster,600
+P3_nested_temperature,F1_none,ECE_10,-0.04548347606693737,-0.07190844826827746,-0.006432199068490141,image pHash-near-duplicate cluster,600
+P3_nested_temperature,F1_none,Brier_multiclass,0.004954224907061144,-0.0047572968127525565,0.01470909667188687,image pHash-near-duplicate cluster,600
+P3_nested_temperature,F1_temperature,ECE_10,6.123356634291157e-05,-0.015354701128461514,0.013490592336191442,image pHash-near-duplicate cluster,600
+P3_nested_temperature,F1_temperature,Brier_multiclass,0.015644826108369668,0.00470123417295337,0.024554091151348788,image pHash-near-duplicate cluster,600
